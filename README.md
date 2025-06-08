@@ -1,4 +1,4 @@
-# Sistema de Reescritura de Grafos para Evolución Dinámica de Enemigos
+# Sistema de Evolución Dinámica de Enemigos mediante Reescritura de Grafos
 
 Este sistema permite representar y evolucionar dinámicamente las habilidades de los enemigos en un videojuego, utilizando **grafos reescribibles** como estructura de datos principal.
 
