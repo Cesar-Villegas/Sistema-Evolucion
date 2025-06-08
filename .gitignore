@@ -1,0 +1,19 @@
+# Archivos y carpetas que Unity genera y no deben versionarse
+[Ll]ibrary
+[Tt]emp
+[Ll]ogs
+MemoryCaptures
+
+# Visual Studio
+.vscode
+.csproj
+.unityproj
+.sln
+.suo
+.tmp
+.user
+.userprefs
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
